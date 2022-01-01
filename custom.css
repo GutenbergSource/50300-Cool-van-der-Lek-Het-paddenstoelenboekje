@@ -1,0 +1,12 @@
+
+body {
+	padding: 1.58em 16%;
+}
+
+.table {
+	margin: auto;
+}
+
+.inner .alignright {
+    vertical-align: bottom;
+}
